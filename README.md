@@ -79,12 +79,12 @@ talha = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talha-Shahid507&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Talha-Shahid507&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Talha-Shahid507&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shahid507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8&cache_seconds=1800" width="50%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Talha-Shahid507&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shahid507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" width="48%" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ talha = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Shahid507&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Shahid507&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" />
 </p>
 
 ---
@@ -138,4 +138,3 @@ talha = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&text=Always+Building+Something+%F0%9F%9A%80&fontSize=16&fontColor=ffffff" />
 </p>
-
