@@ -92,7 +92,7 @@ talha = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Talha-Shahid507&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=Talha-Shahid507&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
