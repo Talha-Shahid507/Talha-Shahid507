@@ -83,9 +83,9 @@ talha = {
 </p>
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Talha-Shahid507&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shahid507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" width="48%" />
-</p>jjjj
+  <img rc="https://github-stats-alpha.vercel.app/api?username=Talha-Shahid507&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117" width="48%" />
+  <img rc="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Shahid507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" width="48%" />
+</p>
 
 ---
 
