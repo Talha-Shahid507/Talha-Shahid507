@@ -29,7 +29,7 @@ talha = {
         "Web Scraping", "Automation", "API Development",
         "Data Pipelines", "ETL Systems"
     ],
-    "experience" : "10+ Years",
+    "experience" : "4+ Years",
     "philosophy" : "Clean code · High performance · Long-term reliability",
     "currently"  : "Building intelligent data extraction systems @ StackCrawlAI"
 }
